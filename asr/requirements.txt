@@ -1,0 +1,11 @@
+moviepy==1.0.3
+gentle
+modelscope
+huggingface_hub
+flask
+funasr
+numpy<2.0.0
+spacy
+openai-whisper
+requests
+# for spaCy installing, refer to https://spacy.io/usage
