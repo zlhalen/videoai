@@ -1,4 +1,4 @@
-# Whisper Large V3 Speech-to-Text API Demo
+# Whisper Large V3 Audio and Video Text Extraction API Server Demo
 Welcome to the **Whisper Large V3** Speech-to-Text API Demo! This project utilizes OpenAI’s powerful **Whisper Large V3** model to transcribe audio and video files, segmenting the speech and outputting the results in a structured JSON format. With an easy-to-use HTTP service, this demo allows developers to quickly integrate speech recognition into their projects.
 
 ## 🚀 Features
